@@ -2,7 +2,7 @@
 
 A small CLI that opens a git repository's remote URL in your default web browser.
 
-It reads the configured URL for a remote (defaulting to `origin`), normalizes common GitHub forms (SSH and HTTPS), and opens the resulting page.
+It reads the configured URL for a remote (defaulting to `origin`), normalizes common forms (SSH and HTTPS), and opens the resulting page.
 
 ## Requirements
 
