@@ -1,7 +1,7 @@
 #!/usr/bin/env yavascript
 /// <reference path="./yavascript.d.ts"/>
 
-import { resolveRemoteUrl } from "./resolve-remote-url.ts";
+import { resolveRemoteUrl } from "./open-git-remote.ts";
 
 const cases: Array<{ input: string; expected: string | null }> = [
   // GitHub
